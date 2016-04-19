@@ -25,7 +25,7 @@
                 vm.needCheckLogin = false;
                 userAPI.logout()
                     .then(function () {
-                        _setError('success', 'You have been successfully logged out!');
+                        _setError('success', 'You have been very successfully logged out!');
                     });
             } else {
                 vm.userInfo = null;
