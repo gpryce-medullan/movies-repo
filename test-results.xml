@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 1.9.8 (Mac OS X 0.0.0)" package="" timestamp="2016-01-06T16:26:03" id="0" hostname="C1MKQ2CSDTY4.local">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+    </properties>
+  </testsuite>
+  <testsuite name="PhantomJS 1.9.8 (Mac OS X 0.0.0)" package="" timestamp="2016-01-06T16:26:03" id="0" hostname="C1MKQ2CSDTY4.local" tests="2" errors="0" failures="0" time="0.032">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"/>
+    </properties>
+    <testcase name="should make element get focus when attribute is true" time="0.026" classname="PhantomJS 1.9.8 (Mac OS X 0.0.0).FocusMe Directive"/>
+    <testcase name="should make element lose focus when attribute is false" time="0.006" classname="PhantomJS 1.9.8 (Mac OS X 0.0.0).FocusMe Directive"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
